@@ -1,2 +1,2 @@
-email : abc@naver.com
+email : abc2@naver.com
 gitID : abc
